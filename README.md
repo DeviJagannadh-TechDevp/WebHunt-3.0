@@ -87,7 +87,7 @@ You know what it is!
 
 Test Server : https://webhunt3.herokuapp.com [virginia]
 
-Production Server : go.webhunt.tech [AWS - Mumbai]
+Production Server : https://go.webhunt.tech [AWS - Mumbai]
 
 DataBase Server : Confidential [Mumbai - Ap-South , MongoAtlas]
 
