@@ -74,7 +74,7 @@ This is an example of how to list things you need to use the software and how to
 1. Get a free API Key at [https://example.com](https://example.com)
 2. Clone the repo
    ```sh
-   git clone https://github.com/your_username_/Project-Name.git
+   git clone {this repo}
    ```
 3. Install NPM packages
    ```sh
@@ -82,7 +82,7 @@ This is an example of how to list things you need to use the software and how to
    ```
 4. Enter your API in `config.js`
    ```JS
-   const API_KEY = 'ENTER YOUR API';
+  npm start
    ```
 
 
