@@ -78,7 +78,7 @@ This section should list any major frameworks that you built your project using.
    ```sh
    npm install
    ```
-3. Enter your API in `config.js`
+3. npm start `config.js`
    ```JS npm start
    ```
    
@@ -90,7 +90,7 @@ Test Server : https://webhunt3.herokuapp.com [virginia]
 
 Production Server : go.webhunt.tech [AWS - Mumbai]
 
-DataBase Server : Confidantial [Mumbai - Ap-South , MongoAtlas]
+DataBase Server : Confidential [Mumbai - Ap-South , MongoAtlas]
 
 
 
