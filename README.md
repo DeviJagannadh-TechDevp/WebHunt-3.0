@@ -15,8 +15,8 @@
 *** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
-[![Contributors][contributors-shield]][contributors-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
+
+
 
 
 
@@ -81,6 +81,16 @@ This section should list any major frameworks that you built your project using.
 3. Enter your API in `config.js`
    ```JS npm start
    ```
+   
+   
+   
+### Live on
+
+Test Server : https://webhunt3.herokuapp.com [virginia]
+
+Production Server : go.webhunt.tech [AWS - Mumbai]
+
+DataBase Server : Confidantial [Mumbai - Ap-South , MongoAtlas]
 
 
 
@@ -95,6 +105,6 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@devi_jagannadh](https://twitter.com/devi_jagannadh) - dj@thedj.tec
+DJ - [@devi_jagannadh](https://twitter.com/devi_jagannadh) - dj@thedj.tech
 
 
