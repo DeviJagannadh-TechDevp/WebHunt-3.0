@@ -48,7 +48,6 @@ You know what it is!
 
 ### Built With
 
-This section should list any major frameworks that you built your project using. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
 * [NODE JS](https://nodejs.org/en/)
 * [HTML](https://html.com/)
 * [Mongo](https://laravel.com)
