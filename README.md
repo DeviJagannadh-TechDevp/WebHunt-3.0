@@ -56,9 +56,10 @@ You know what it is!
 
 <!-- GETTING STARTED -->
 ## Contributers
-
-1. Jaya Sowmini Kona
-2. Veneela Adapa
+1. DJ
+2. Jaya Sowmini Kona
+3. Veneela Adapa
+   
 
 ### Prerequisites
 
